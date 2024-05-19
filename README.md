@@ -50,6 +50,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshumaharshi&label=Profile%20views&color=0e75b6&style=flat" alt="himanshumaharshi" /> </p>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
