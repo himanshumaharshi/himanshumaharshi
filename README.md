@@ -1,6 +1,6 @@
 # I'm [Himanshu]([https://github.com/himanshumaharshi](https://himanshumaharshi-portfolio.vercel.app/))👋
 
-# Check out my [PORTFOLIO](https://himanshumaharshi-portfolio.vercel.app/) 🔗
+# Check out my PORTFOLIO [🔗](https://himanshumaharshi-portfolio.vercel.app/)
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://himanshumaharshi-portfolio.vercel.app/)
