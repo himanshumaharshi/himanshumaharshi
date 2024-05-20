@@ -28,16 +28,16 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,js)](https://github.com/himanshumaharshi)
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,js,java)](https://github.com/himanshumaharshi)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux)](https://github.com/himanshumaharshi)
+[![Frameworks](https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,redux,express,npm)](https://github.com/himanshumaharshi)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://github.com/himanshumaharshi)
+[![Database & Cloud](https://skillicons.dev/icons?i=mongo,mysql,vercel,gcp,firebase)](https://github.com/himanshumaharshi)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/himanshumaharshi)
+[![Tools](https://skillicons.dev/icons?i=it,github,postman,vscode,visualstudio,windows,linux,ps,ae,pr)](https://github.com/himanshumaharshi)
 
 <hr>
 
