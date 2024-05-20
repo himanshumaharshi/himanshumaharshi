@@ -43,7 +43,7 @@
 
 ## 📊Github Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumaharshi&langs_count=10&show_icons=true&locale=en&theme=radical" alt="himanshu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumaharshi&langs_count=10&show_icons=true&locale=en&theme=radical" alt="himanshu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshumaharshi&show_icons=true&locale=en&theme=radical" alt="himanshu" /></p>
  
