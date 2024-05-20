@@ -37,7 +37,7 @@
 [![Database & Cloud](https://skillicons.dev/icons?i=mongo,mysql,vercel,gcp,firebase)](https://github.com/himanshumaharshi)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=it,github,postman,vscode,visualstudio,windows,linux,ps,ae,pr)](https://github.com/himanshumaharshi)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,windows,linux,ps,ae,pr)](https://github.com/himanshumaharshi)
 
 <hr>
 
