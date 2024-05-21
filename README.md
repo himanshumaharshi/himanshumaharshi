@@ -3,7 +3,7 @@
 # Check out my [PORTFOLIO 🔗](https://himanshumaharshi-portfolio.vercel.app/)
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://himanshumaharshi-portfolio.vercel.app/)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Developer;I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://himanshumaharshi-portfolio.vercel.app/)
 
 
 <img align="right" height="250" width="400" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fgiphy.gif?alt=media&token=e92f9416-8187-4ffa-a38c-47842be32451"/>
