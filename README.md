@@ -49,6 +49,9 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumaharshi&theme=radical" alt="himanshu" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=himanshumaharshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <h2 align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
@@ -60,9 +63,22 @@
 </h2>
 
 <div align="center">
+  <h2>🔝 Top Contributed Repo</h2>
+  ![](https://github-contributor-stats.vercel.app/api?username=himanshumaharshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/>
+</div>
+
+<div align="center">
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+  ### 😂 Random Dev Meme
+  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 </div>
 
 ![](https://i.imgur.com/waxVImv.png)
