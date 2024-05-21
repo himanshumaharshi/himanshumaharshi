@@ -63,9 +63,9 @@
 </h2>
 
 <div align="center">
-  <h2>🔝 Top Contributed Repo</h2>
-</div>
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=himanshumaharshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -75,9 +75,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=himanshumaharshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![](https://i.imgur.com/waxVImv.png)
 
