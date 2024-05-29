@@ -30,10 +30,10 @@
 
 [![I Code in](https://skillicons.dev/icons?i=c,cpp,js,java)](https://github.com/himanshumaharshi)
 
-### Frontend
+### Web Technologies
 [![Frameworks](https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,redux,express,npm)](https://github.com/himanshumaharshi)
 
-### Backend
+### Backend & Cloud
 [![Database & Cloud](https://skillicons.dev/icons?i=mongo,mysql,vercel,gcp,firebase)](https://github.com/himanshumaharshi)
 
 ### Tools
