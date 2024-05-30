@@ -68,6 +68,8 @@
   <h2>🔝 Top Contributed Repo</h2>
   <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=himanshumaharshi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+   <hr>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshumaharshi&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
   </p>
 </div>
 
