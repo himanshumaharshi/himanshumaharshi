@@ -27,17 +27,34 @@
 
 ## 🛠️Skills
 ### I Code in
+<!-- [![I Code in](https://skillicons.dev/icons?i=c,cpp,js,java)](https://github.com/himanshumaharshi) -->
+| C | C++ | JS | Java |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="c"  alt="c" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="cpp"  alt="cpp" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,js,java)](https://github.com/himanshumaharshi)
 
 ### Web Technologies
-[![Frameworks](https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,redux,express,npm)](https://github.com/himanshumaharshi)
+<!-- [![Frameworks](https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,redux,express,npm)](https://github.com/himanshumaharshi) -->
+| HTML | CSS | React | Tailwind | Redux | SocketIO | NPM |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" title="html"  alt="html" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" title="css"  alt="css" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss"  alt="tailwindcss" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redux/redux-original.svg" title="redux"  alt="redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/socketio/socketio-original.svg" title="socketio"  alt="socketio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" title="npm"  alt="npm" width="55" height="55"/> |
+
 
 ### Backend & Cloud
-[![Database & Cloud](https://skillicons.dev/icons?i=mongo,mysql,vercel,gcp,firebase)](https://github.com/himanshumaharshi)
+<!-- [![Database & Cloud](https://skillicons.dev/icons?i=mongo,mysql,vercel,gcp,firebase)](https://github.com/himanshumaharshi) -->
+| Node | Express | Mongo | MySQL | Vercel | Firebase | GC |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" title="node"  alt="node" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" title="express"  alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" title="mysql"  alt="mysql" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vercel/vercel-original.svg" title="vercel"  alt="vercel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg" title="firebase"  alt="firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg" title="googlecloud"  alt="googlecloud" width="55" height="55"/> |
+
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,windows,linux,ps,ae,pr)](https://github.com/himanshumaharshi)
+<!-- [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,windows,linux,ps,ae,pr)](https://github.com/himanshumaharshi) -->
+| Git | Github | Postman | VSCode | VS | Windows | MacOS | Linux | Photoshop | AE | Premier Pro |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" title="github"  alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" title="vs"  alt="vs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg" title="window"  alt="window" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apple/apple-original.svg" title="mac"  alt="mac" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="linux"  alt="linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg" title="photoshop"  alt="photoshop" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="aftereffects"  alt="aftereffects" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="premierpro"  alt="premierpro" width="55" height="55"/> |
 
 <hr>
 
