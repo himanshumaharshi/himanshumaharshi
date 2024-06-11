@@ -2,7 +2,7 @@
 
 # Check out my [PORTFOLIO 🔗](https://himanshumaharshi-portfolio.vercel.app/)
 
-<img align="right" height="" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" height="400" width="380" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Developer;I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://himanshumaharshi-portfolio.vercel.app/)
 
