@@ -1,4 +1,4 @@
-<img align="right" height="" width="" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" height="" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 # I'm [Himanshu]([https://github.com/himanshumaharshi](https://himanshumaharshi-portfolio.vercel.app/))👋
 
